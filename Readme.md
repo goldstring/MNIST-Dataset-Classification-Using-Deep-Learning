@@ -1,8 +1,11 @@
 <h1>MNIST-CLASSIFICATION</h1>
+  <img src="https://raw.githubusercontent.com/goldstring/MNIST-Dataset-Classification-Using-Deep-Learning/main/wallpaper.png" alt="MNIST" width="200">
+<h2>Problem Statement</h2>
+<video src="https://raw.githubusercontent.com/goldstring/MNIST-Dataset-Classification-Using-Deep-Learning/main/screen-capture.mp4" 
+    data-canonical-src="https://raw.githubusercontent.com/goldstring/MNIST-Dataset-Classification-Using-Deep-Learning/main/screen-capture.mp4" controls="controls"
+    muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
+</video>
 
-![wallpaper](https://github.com/user-attachments/assets/77c9a063-3db1-4146-bade-b8353374d1b5)
-
-https://github.com/user-attachments/assets/74537936-edb5-4d3f-80a9-78d3dcae5e4c
 
 <h2>Problem Statement</h2>
     <p>
@@ -46,3 +49,6 @@ https://github.com/user-attachments/assets/74537936-edb5-4d3f-80a9-78d3dcae5e4c
     <p>
         This project demonstrates how CNNs can effectively classify handwritten digits with high accuracy, showcasing the strength of deep learning in solving image recognition problems. The insights gained can be extended to more complex image classification tasks in the future.
     </p>
+    <h2>Problem Statement</h2>
+  <img src="https://raw.githubusercontent.com/goldstring/MNIST-Dataset-Classification-Using-Deep-Learning/main/app_page-0001.jpg" alt="MNIST" width="200">
+
